@@ -1,0 +1,42 @@
+{
+  "payload": [
+    {
+      "annotationSpecId": "3196682723200598016",
+      "imageObjectDetection": {
+        "boundingBox": {
+          "normalizedVertices": [
+            {
+              "x": 0.41274932,
+              "y": 0.4875421
+            },
+            {
+              "x": 0.95217633,
+              "y": 0.8605197
+            }
+          ]
+        },
+        "score": 0.82678086
+      },
+      "displayName": "Bumper_Total_Damage"
+    },
+    {
+      "annotationSpecId": "2620221970897174528",
+      "imageObjectDetection": {
+        "boundingBox": {
+          "normalizedVertices": [
+            {
+              "x": 0.3429237,
+              "y": 0.2711289
+            },
+            {
+              "x": 0.8954367,
+              "y": 0.6210361
+            }
+          ]
+        },
+        "score": 0.71735144
+      },
+      "displayName": "Bannet_Total_Damage"
+    }
+  ]
+}
