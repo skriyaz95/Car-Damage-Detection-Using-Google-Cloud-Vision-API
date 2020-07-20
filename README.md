@@ -1,4 +1,4 @@
-# car-damage-detection-using-google-cloud-vision-api
+# Car Damage Detection Using Google Cloud Vision API
 * Collected car accident images and analyzed damaged component
 * Created a Object detection model using Google Cloud Vision
 * Created boundary boxes on the damaged component of the car
